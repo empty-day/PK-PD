@@ -7,3 +7,6 @@ https://blogs.sas.com/content/iml/2019/10/02/geometric-mean-deviation-cv-sas.htm
 
 #pk code
 https://github.com/Wenwen-23/phuse-scripts/tree/master/whitepapers/scriptathons/pk
+
+#
+https://sassavvy.com/pk_pd_analysis.html/
